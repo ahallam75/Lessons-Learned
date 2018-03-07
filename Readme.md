@@ -1,7 +1,6 @@
-Lessons learned:
-1. Markdown
-2. HTML
-2. CSS
-3. CSS Frameworks
-4. Command line
-5. Git and Github
+Things I've learned at Bloc:
+1. html
+1. css
+1. css frameworks
+1. The command line
+1. Git and Git Hub
